@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Pacifico&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow{
+
+ box-shadow: rgba(129, 140, 248, 0.35) 0px 5px 15px;
+}
